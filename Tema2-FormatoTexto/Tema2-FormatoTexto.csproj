@@ -6,6 +6,11 @@
     <RootNamespace>Tema2_FormatoTexto</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>IconoFomatoTexto.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="IconoFomatoTexto.ico" />
+  </ItemGroup>
 
 </Project>

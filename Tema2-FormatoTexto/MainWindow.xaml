@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema2_FormatoTexto"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Texto con Formato" Height="450" Width="800">
     <Grid>
         <TextBlock x:Name="textoTexto" HorizontalAlignment="Left" Margin="87,64,0,0" TextWrapping="Wrap" Text="Texto" VerticalAlignment="Top"/>
         <TextBox x:Name="recuadroEscritura" HorizontalAlignment="Left" Margin="87,85,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" Height="90" TextChanged="recuadroEscritura_TextChanged"/>
